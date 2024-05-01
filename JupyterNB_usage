@@ -1,0 +1,21 @@
+# can also use these in jupyter notebook
+
+these the general chatbot can be imported as module and can use in jupyternotebook
+
+say 
+import general_chatbot as chatbot
+chatbot.chat()
+
+this will initate the chatbot and can run as usual like we use in terminal
+
+#calchatbot
+
+import calchatbot
+it will start there directly
+
+#to start SQL chatbot
+
+import SQL_chatbot as sql
+sql.chat()
+
+this will initate the chatbot
