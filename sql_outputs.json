@@ -1,0 +1,6 @@
+{"Query": "SELECT * FROM users WHERE age > 30;"},
+{"Query": "INSERT INTO products (name, price) VALUES ('Product A', 25.99);"},
+{"Query": "UPDATE customers SET city = 'New York' WHERE id = 123;"},
+{"Query": "SELECT * FROM praveen;"}
+,
+{"Query": "DESCRIBE student;"}
