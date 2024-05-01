@@ -2,6 +2,7 @@
 types of chatbots sql_query_generator, calculator, and general_chatbot with adaptive learning capability
 
 #SQL usage
+
 To initiate SQL operations, type "SQL" or "sql" and then choose the action you want to perform: create, insert, update, delete, select, or describe.
 
 For creating a table, select "create" and enter the table name followed by the column names and types.
